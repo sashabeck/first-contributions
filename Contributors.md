@@ -1,4 +1,6 @@
 # Contributors
+- [CemreTheBoss](https://github.com/cemrenurkeles)
+- Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C 
 - [Muhammad Ridwan Hakim](https://github.com/rescenic)
@@ -19,6 +21,7 @@
 rashee
 - [Daniel Schneider](https://github.com/dschne27)
 - Elie Inahon
+- [Tamar Weisskopf](https://github.com/TamarW0)
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
 - [Irene](https://github.com/IreneAragona)
@@ -4760,6 +4763,7 @@ utthamr
 - [Ashok Manoaharan](https://github.com/ashokm273)
 - [Trudeau Okech](https://github.com/TrudeauOkech)
 - [jakobmichael](https://github.com/jakobmichael)
+- [Shreyas A S](https://github.com/shreyas-a-s)
 - [Aratras16](https://github.com/Aratras16)
 - [yutasasaki1219](https://github.com/YutaSasaki1219)
 - [kellykiiru](https://github.com/kellykiiru)
@@ -4796,4 +4800,5 @@ git stat
 - [Santiago Burgos](https://github.com/SantiBurgos1089)
 - [TransonQ](https://github.com/TransonQ)
 - [Richard Kabi](https://github.com/NebulaScout)
+- [Tamar Wienet](https://github.com/TamiWien)
 
